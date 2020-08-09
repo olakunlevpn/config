@@ -2,6 +2,8 @@
     "name": "olakunlevpn/config",
     "type": "library",
     "description": "Simple PHP Config component ",
+    "minimum-stability": "dev",
+    "license": "MIT",
     "autoload": {
         "psr-0": { 
             "Config": "src"
